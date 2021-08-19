@@ -1,4 +1,5 @@
 #include<stdio.h>
+// C++
 //New
 // 2d array 
 // int main function 
