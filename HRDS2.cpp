@@ -1,7 +1,7 @@
 #include <iostream>
 #include <sstream>
 using namespace std; //add some file
-
+//Some changes 
 class Student{
   private:
   int age,standard;
