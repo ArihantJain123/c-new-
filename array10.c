@@ -3,7 +3,7 @@
 //New
 // 2d array 
 // int main function 
-// some change new add 
+// some change  add 
 
 int main()
 {
