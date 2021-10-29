@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void message();/* function declaration*/
+void message();/* function declaration it */
  int main()
 {
     message();
