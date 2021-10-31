@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//new
 int main()
 {
     int stud[4][2];
