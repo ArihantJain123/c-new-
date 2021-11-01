@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//new
 int main()
 {
   int n, i, m=0, flag=0;
