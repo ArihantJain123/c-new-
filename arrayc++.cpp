@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-
+//New
 int Lsearch(int[],int,int);
 int main()
 {
