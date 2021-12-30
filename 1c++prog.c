@@ -1,6 +1,6 @@
 #include<iostream.h>
 #include<stdlib.h>
-// New2 
+
 int main()
 {
     system("cls");
