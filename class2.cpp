@@ -1,6 +1,6 @@
 #include<iostream>
 #include<stdlib.h>
-
+// class is created 
 using namespace std;
 int a = 10;
 
