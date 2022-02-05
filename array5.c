@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// Sub program here new
+// Sub program here new here 
 int main()
 {
     int value[] = { 2,5,7,9,6};
