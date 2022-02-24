@@ -1,5 +1,5 @@
 #include<stdio.h>
-//new
+//new here 
 int main()
 {
     int i = 3, *x;
