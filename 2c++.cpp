@@ -1,6 +1,6 @@
 #include<iostream>
 #include<stdlib.h>
-//new Here 
+//new Here live  
 using namespace std;
 
 
