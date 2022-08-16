@@ -9,7 +9,7 @@ int main()
 {
     system("cls");
     double rad,area,perameter;
-
+///
     cout<<"enter the radius of the circle : ";
     cin>>rad;
 
