@@ -1,7 +1,7 @@
 #include<stdio.h>
 // C++
 //New
-// 2d array 
+// 2d array ..
 // int main function 
 // some change  add new changes and hey .....
 
