@@ -1,7 +1,7 @@
 #include<iostream>
 #include<math.h>
 #include<stdlib.h>
-//new here like here........... .............................................
+//new here like here............. .............................................
 using namespace std;
 
 int main()
