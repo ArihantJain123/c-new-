@@ -1,4 +1,4 @@
-#include<iostream>
+...#include<iostream>
 #include<math.h>
 #include<stdlib.h>
 //new here like here................. ......................................................................................................
