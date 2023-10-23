@@ -1,7 +1,7 @@
 #include <iostream>
 #include <sstream>
 using namespace std;
-//Edit file new here new yes ................... h...ere .......
+//Edit file new here new yes ................... h...ere ..........
 class Student{
   private:
   int age,standard;
